@@ -12,7 +12,7 @@
 `PostgreSQL` • `MongoDB` 
 
 #### Инфраструктура:
-`Docker` • `Kubernetes (в процессе освоения)`
+`Docker`
 
 #### Тестирование:
 `JUnit 5` • `Mockito` • `Testcontainers` • `Postman`
